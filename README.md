@@ -1,10 +1,24 @@
 
 
-<h1>Hi there</h1>
-My name is Mattheus Henrique. I currently live in Rio de janerio, Brazil!
+**Hi there:**
+
+My name is Mattheus Henrique. I currently live in Rio de janerio. 
 
 
-<h1>I’m currently learning</h1>
-<p>I'm studying back-end and security</p>
+**I’m currently learning:**
 
-![208810c656507a2cd6fb6a0f1f4ee26b](https://user-images.githubusercontent.com/58952630/109732642-51a7d400-7b9c-11eb-9487-811e8508ccd7.gif)
+Computer science stuff. In addition I am focusing on Laravel and Vuejs, trying to use TDD and good practices. I'm also starting to learn functional programming with elixir
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MattheusHenrique&show_icons=true&theme=gotham" alt="MattheusHenrique" />
