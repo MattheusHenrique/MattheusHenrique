@@ -7,7 +7,7 @@ My name is Mattheus Henrique. I currently live in Rio de janerio.
 
 **I’m currently learning:**
 
-Computer science stuff. In addition I am focusing on Laravel and Vuejs, trying to use TDD and good practices. I'm also starting to learn functional programming with elixir
+Computer science stuff. In addition I am focusing on Django and Vuejs. I'm also starting to learn functional programming with elixir
 
 **Languages and Tools:**
 
